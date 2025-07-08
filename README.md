@@ -1,5 +1,9 @@
 # 🔗 Peer2Peer Java Application
 
+<p align="center">
+  <img src="https://osborne.vc/images/p2p.gif" alt="Peer-to-Peer Network" width="500"/>
+</p>
+
 This is a **Peer-to-Peer (P2P) File Sharing & Communication** application built in Java.  
 It allows multiple devices to connect directly and share files or messages over a network without the need for a central server.
 
